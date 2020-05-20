@@ -8,8 +8,8 @@ Experimenting with geopandas and other visualization libraries in python
 - Contributors
 
 ## Introduction
-This is a small project experimenting geopandas and other python visualization libraries.
-So, I was basically messing around with a class project.
+This is a small project experimenting geopandas and other python visualization libraries. I used these libraries to analyse Airbnb listings in Barcelona. These listings contain information about locations, prices, room types and reviews. 
+**Listings can be found on Airbnb archives
 
 ## Technologies
 "Experiment" was done with:
@@ -19,7 +19,7 @@ So, I was basically messing around with a class project.
 ## Prerequisites
 - Make sure you have the latest version of python.
 - Jupyter Notebook or Google colabs.
-- Install contextily, geopandas, matplotlib and descartes.
+- Install contextily, geopandas, matplotlib, geoplot and descartes.
 
 ## Contributors
 Israeladebisi
