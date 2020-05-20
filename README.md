@@ -1,4 +1,4 @@
-# Python Data Visualization Project
+# Python Data Visualization Project Airbnb
 Experimenting with geopandas and other visualization libraries in python
 
 ## Table of Contents
