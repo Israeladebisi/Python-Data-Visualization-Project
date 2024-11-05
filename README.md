@@ -1,14 +1,14 @@
 # Python Data Visualization Project Airbnb
 Experimenting with geopandas and other visualization libraries in python
 
-## Table of Contents
+## Contents
 - Introduction
 - Technologies
 - Prerequisites
 - Contributors
 
 ## Introduction
-This is a small project experimenting geopandas and other python visualization libraries. I used these libraries to analyse Airbnb listings in Barcelona. These listings contain information about locations, prices, room types and reviews. 
+This is a small project experimenting with geopandas and other python visualization libraries. I used these libraries to analyse Airbnb listings in Barcelona. These listings contain information about locations, prices, room types and reviews. 
 **Listings can be found on Airbnb archives
 
 ## Technologies
